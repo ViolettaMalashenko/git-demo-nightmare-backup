@@ -1,1 +1,1 @@
-# git-demo-nightmare
+Made a new repository on github - git-demo-nightmare-backup. Change the remote repository git-demo-nightmare into the local one so that fetch and push come to the new repository that was created in the previous step. Made a push.
